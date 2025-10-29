@@ -15,5 +15,8 @@ These tables serve as the foundation for comprehensive analyses focusing on cust
 
 ## Project Link
 
-https://drive.google.com/file/d/1Ab1sxEJ7PkLM5fZp0qQqNOtzdw_fFDYw/view?usp=sharing
+[Zomato Resturant Analysis](https://drive.google.com/file/d/1Ab1sxEJ7PkLM5fZp0qQqNOtzdw_fFDYw/view?usp=sharing)
 
+## Introduction
+
+Zomato is a multinational restaurant aggregator and food delivery company. In the face of growing competition, understanding the customer base remains crucial for formulating effective marketing strategies. 
