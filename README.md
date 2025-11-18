@@ -1,4 +1,4 @@
-# Zomato Resturant Analysis
+# Zomato Restaurant Analysis
 This project analyzes Zomato’s restaurant data to uncover factors influencing popularity and revenue, providing insights into how cuisine type and customer ratings impact overall restaurant performance.
 
 ## Data Set
@@ -15,7 +15,7 @@ These tables serve as the foundation for comprehensive analyses focusing on cust
 
 ## Project Link
 
-[Zomato Resturant Analysis](https://drive.google.com/file/d/1Ab1sxEJ7PkLM5fZp0qQqNOtzdw_fFDYw/view?usp=sharing)
+[Zomato Restaurant Analysis](https://drive.google.com/file/d/1Ab1sxEJ7PkLM5fZp0qQqNOtzdw_fFDYw/view?usp=sharing)
 
 ## Introduction
 
